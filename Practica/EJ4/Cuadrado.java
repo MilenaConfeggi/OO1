@@ -1,6 +1,6 @@
 package ar.edu.unlp.info.oo1.objetos_uno.ejercicio4;
 
-public class Cuadrado extends forma{
+public class Cuadrado implements forma{
 	private double lado;
 
 	public Cuadrado() {
