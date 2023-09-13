@@ -1,6 +1,6 @@
 package ar.edu.unlp.info.oo1.objetos_uno.ejercicio4;
 
-public class Circulo extends forma{
+public class Circulo implements forma{
 	private double radio;
 	private double diametro;
 	
